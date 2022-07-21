@@ -20,7 +20,7 @@ Referenced documentation and tutorials:
 
 Additional assistance:
 
-Thank you to my instructional staff, tutor, and AskBCS Learning Assistants!
+Thank you to my instructional staff Farish and Riley, tutor Juan Delgado, and AskBCS Learning Assistants!
 
 ## Features
 
