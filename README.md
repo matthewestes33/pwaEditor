@@ -5,18 +5,17 @@ This application creates notes or code snippets with or without an internet conn
 
 ## Mock-up
 
-![Screenshot.] *ADD SCREENSHOT*
+![JATE screenshot.](./assets/jate.jpg)
 
 ## Installation
 
-This application requires installation of npm (incl. idb and webpack) and Heroku. 
+This application requires installation of npm (incl. concurrently, code-mirror-names, express, idb, nodemon, and webpack) and Heroku. For a complete let is node modules to install, please examine the package.json files at the link below.
 
-All elements of the project can be examined here: https://github.com/matthewestes33/pwaEditor 
+All elements of the application can be examined here: https://github.com/matthewestes33/pwaEditor
+
+The deployed application can be used here: https://limitless-sands-85113.herokuapp.com/
 
 ## Credits
-
-Referenced documentation and tutorials:
-
 
 Additional assistance:
 
