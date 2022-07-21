@@ -31,7 +31,7 @@ export const putDb = async (content) => {
   // Use the .put() method to update a piece of data from the database based on the id.
   const request = store.put({ id: 1, value: content });
 
-  // Get confirmation of the request.
+  // Get confirmation of the request and print confirmation to console.
   const result = await request;
   console.log('🚀 data saved to the database', result.value);
 };
@@ -50,9 +50,9 @@ export const getDb = async () => {
   const store = tx.objectStore('jate');
 
   // Use the .get() method to get a piece of data from the database based on the id.
-  const request = store.getAll(1);
+  const request = store.get(1);
 
-  // Get confirmation of the request.
+  // Get confirmation of the request and print confirmation to console.
   const result = await request;
   console.log('🚀 data retrieved from the database', result)
   return result;
