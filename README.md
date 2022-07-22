@@ -25,7 +25,7 @@ Thank you to my instructional staff Farish and Riley, tutor Juan Delgado, and As
 
 When a developer opens the application, a client/server folder structure is present.
 
-When the developer enters the command `npm run start` from the root directory, the application starts and serves the client.
+When the developer enters the command `npm start` from the root directory, the application starts and serves the client.
 
 When the developer runs the text editor application from the terminal, the JavaScript files have been bundled using webpack.
 

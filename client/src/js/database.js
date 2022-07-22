@@ -55,7 +55,8 @@ export const getDb = async () => {
   // Get confirmation of the request and print confirmation to console.
   const result = await request;
   console.log('🚀 data retrieved from the database', result)
-  return result;
+  console.log(result.value)
+  return result?.value;
 };
 
 // Start the database
