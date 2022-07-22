@@ -7,6 +7,8 @@ This application creates notes or code snippets with or without an internet conn
 
 ![JATE screenshot.](./assets/jate.jpg)
 
+![JATE2 screenshot.](./assets/jate2.jpg)
+
 ## Installation
 
 This application requires installation of npm (incl. concurrently, code-mirror-names, express, idb, nodemon, and webpack) and Heroku. For a complete let is node modules to install, please examine the package.json files at the link below.
