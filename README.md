@@ -19,6 +19,10 @@ The deployed application can be used here: https://limitless-sands-85113.herokua
 
 ## Credits
 
+Documentation:
+
+Conditional (ternary) operator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator
+
 Additional assistance:
 
 Thank you to my instructional staff Farish and Riley, tutor Juan Delgado, and AskBCS Learning Assistants!
